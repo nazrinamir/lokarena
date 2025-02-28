@@ -8,7 +8,7 @@ import './App.css';
 import ProtectedRoute from './contexts/ProtectedRoute.tsx';
 import { AuthProvider } from './contexts/AuthContext.tsx';
 import Login from './pages/AuthenticationPages/Loginuser.tsx';
-
+import "./index.css";
 
 function App() {
   return (
